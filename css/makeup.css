@@ -10,19 +10,19 @@ body{
   padding: 2rem;
 }
 
-.profile-photo{
+/* .profile-photo{
   display: flex;
   justify-content: center;
-}
+} */
 
 
-img{
+/* img{
   width: 200px;
   height: 200px;
   border-radius: 50%;
   justify-content: center;
   margin-top: 5px;
-}
+} */
 
 .skills{
   display: flex;
